@@ -1,0 +1,28 @@
+graph {
+Alice;
+Bob;
+Carl;
+David;
+Ernst;
+Frank;
+Gail;
+Harry;
+Jen;
+Irene;
+Jan;
+Alice -- Bob;
+Alice -- Carl;
+Alice -- David;
+Alice -- Ernst;
+Alice -- Frank;
+Bob -- Gail;
+Carl -- David;
+Carl -- Frank;
+Ernst -- Frank;
+Gail -- Harry;
+Gail -- Jen;
+Gail -- Irene;
+Harry -- Jen;
+Harry -- Irene;
+Irene -- Jan;
+}
